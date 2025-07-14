@@ -2,7 +2,6 @@
 
 ## Vue 和 Vite 生态最新进展
 尤雨溪  VoidZero 创始人 & CEO，Vue.js & Vite 作者
-https://github.com/VueConf/2025/blob/main/Vue%20%E5%92%8C%20Vite%20%E7%94%9F%E6%80%81%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95.pdf
 
 ## The first 5 years of Vite
 patak Vite 核心团队成员
