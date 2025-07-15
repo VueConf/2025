@@ -54,7 +54,7 @@ https://esm.is/2025-pinia-colada-talk-zh
 ## tsdown：库库包一切
 演讲人：**三咲智子** Vue.js 核心团队成员，tsdown / Vue Macros 作者
 
-https://talks.sxzz.dev/2025-07-vueconf/1
+https://talks.sxzz.dev/2025-07-vueconf
 
 
 ## Vue Language Tools 增量更新
